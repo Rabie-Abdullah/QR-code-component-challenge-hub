@@ -37,7 +37,7 @@ html,body {
     padding: 10px 50px 40px 50px;
 }
 .qr_text h1 {
-    font-weight: 700;
+    font-size: 24px;
     color: var(--heading-color);
 }
 p {
