@@ -21,7 +21,7 @@ html,body {
     align-items: center;
     justify-content: center;
 }
-.qr_container {
+.container {
     width: 360px;
     height: auto;
     background-color: var(--main-qr-bg-color);
