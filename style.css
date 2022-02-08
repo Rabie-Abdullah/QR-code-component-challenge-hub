@@ -22,7 +22,7 @@ html,body {
     justify-content: center;
 }
 .qr_container {
-    width: 375px;
+    width: 360px;
     height: auto;
     background-color: var(--main-qr-bg-color);
     border-radius: 25px;
@@ -34,7 +34,7 @@ html,body {
 
 }
 .qr_text {
-    padding: 15px 50px 40px 50px;
+    padding: 10px 50px 40px 50px;
 }
 .qr_text h1 {
     font-weight: 700;
